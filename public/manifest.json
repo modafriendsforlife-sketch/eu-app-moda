@@ -1,0 +1,23 @@
+{
+  "name": "Jornada MF",
+  "short_name": "Jornada MF",
+  "description": "Sua jornada, do estudo à carreira.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F7F5",
+  "theme_color": "#C90055",
+  "icons": [
+    {
+      "src": "/assets/logo-mf-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo-mf-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
